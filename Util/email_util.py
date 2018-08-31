@@ -10,10 +10,11 @@ def compose_and_send(fromaddr, frompass, toaddr, name):
     msg['From'] = fromaddr
     msg['To'] = toaddr
     msg['Subject'] = "GSS website visit reminder"
-    body = "Dear " + name + \
-        ",\n\nThis is a gentle reminder to please visit our website as we see that you havent\n\n\nNote: " + \
-        "This is an auto-generated email, in case of questions please contact " + \
-        "info@example.gov.in or +918805577007\n\nBest Regards,\nGIS Team"
+    bodyFile = open('email_text.txt', mode='r')
+    data = ''
+    with open('email_text.txt', 'r') as myfile:
+        data = myfile.read()
+    body = 'Dear ' + name + ',\n' + data
     msg.attach(MIMEText(body, 'plain'))
     send(msg, fromaddr, frompass, toaddr)
 

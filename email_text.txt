@@ -1,0 +1,8 @@
+[TEST EMAIL]
+This is a gentle reminder to please visit our website as we see that you haven't logged in yet.
+
+
+Note: This is an auto-generated email, in case of questions please contact info@example.gov.in or +919898989898
+
+Best Regards,
+GIS Team
