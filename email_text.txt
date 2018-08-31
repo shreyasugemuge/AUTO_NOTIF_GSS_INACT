@@ -1,8 +1,18 @@
 [TEST EMAIL]
-This is a gentle reminder to please visit our website as we see that you haven't logged in yet.
+Strategy Support System (SSS), is the online web-portal designed for senior officers of rank SP & Above.This helps them for smart Policing-Administration. If you haven’t visited this portal in last 30 Days, please visit the SSS portal with following steps:
+1. Using Google chrome browser Go to www.mahapolice.gov.in.
+2. Click on Strategy Support System icon and Select your User Name : .
+3. Enter your Registration Password.
+4. Press Get OTP button.
+5. Enter the received OTP in OTP textbox.
+6. Press Submit, follow instructions to proceed.
+7. In case of Forget password you may use Forget password Option.
 
+ For any query please contact Pramod Gadekar Mob:9960002974  Natrajeshwar Andhalkar Mob:9112062323 email: feedback.strategy@gmail.com
 
-Note: This is an auto-generated email, in case of questions please contact info@example.gov.in or +919898989898
-
-Best Regards,
-GIS Team
+Regards
+Vishwas Deshpande,
+ Project Manager,
+ GIS Project Cell,
+ DGP Office Mumbai.
+ Mob:9870347812.

@@ -15,7 +15,7 @@ for l in sheet.get_all_records():
             print(
                 'Last sent is over a month ago, Sending email to ' + l['Email'])
             em.compose_and_send(fromaddr="feedback.strategy@gmail.com",
-                                frompass='26jan@2017', toaddr=l['Email'], name=l['Name'])
+                                frompass='26jan@2018', toaddr=l['Email'], name=l['Name'])
             gs.write(row=counter, column=4,
                      data=datetime.now().strftime(gen_const.TIME_STAMP_FORMAT), sheet=sheet)
             print('Updated timestamp')
